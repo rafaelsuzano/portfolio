@@ -1,7 +1,7 @@
 Hi 👋 My name is Rafael Suzano
 ==============================
 
-Engenheiro de Software / Qualidade de Software/ MBA BI/ Pos Graduado em Engenharia de Software.
+Engenheiro de Software / Qualidade de Software/ MBA BI/ Pós Graduado em Engenharia de Software.
 -----------------------------------------------------------------------------------------------
 
 * 🌍  I'm based in São Paulo
