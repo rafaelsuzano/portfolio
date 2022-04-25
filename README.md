@@ -1,8 +1,8 @@
 Hi 👋 My name is Rafael Suzano
 ==============================
 
-Engenheiro de Software
-----------------------
+Engenheiro de Software / Qualidade de Software/ MBA BI/ Pos Graduado em Engenharia de Software.
+-----------------------------------------------------------------------------------------------
 
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [rafaelsuzano@hotmail.com](mailto:rafaelsuzano@hotmail.com)
