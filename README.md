@@ -1,10 +1,11 @@
 Hi 👋 My name is Rafael Suzano
 ==============================
 
-Software Engineer / Software Quality / MBA BI / Post Graduated in Software Engineering.
+Engenheiro de Software / Qualidade de Software/ MBA BI/ Pos Graduado em Engenharia de Software.
 -----------------------------------------------------------------------------------------------
 
 * 🌍  I'm based in São Paulo
+* 🖥️  See my portfolio at [My Portfolio](http://rafaelsuzano.github.io/portfolio/)
 * ✉️  You can contact me at [rafaelsuzano@hotmail.com](mailto:rafaelsuzano@hotmail.com)
 
 <a href="https://www.github.com/rafaelsuzano" target="_blank" rel="noreferrer"><img
